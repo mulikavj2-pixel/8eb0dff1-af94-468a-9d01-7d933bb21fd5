@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { Award, Users, Zap, TrendingUp, Star, HelpCircle } from "lucide-react";
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
